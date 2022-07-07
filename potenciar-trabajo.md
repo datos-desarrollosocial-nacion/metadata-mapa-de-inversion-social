@@ -1,12 +1,12 @@
-## Inclusión sociolaboral y desarrollo social
-### Programa Nacional de Inclusión Socio-Productiva y Desarrollo Local Potenciar Trabajo
+# Inclusión sociolaboral y desarrollo social
+## Programa Nacional de Inclusión Socio-Productiva y Desarrollo Local Potenciar Trabajo
 
 El objetivo general del programa es contribuir al mejoramiento de la empleabilidad y la generación de nuevas propuestas productivas a través de la terminalidad educativa, la formación laboral, la certificación de competencias, así como también la creación, promoción y fortalecimiento de unidades productivas gestionadas por personas físicas que se encuentren en situación de alta vulnerabilidad social y económica, con la finalidad de promover su inclusión social plena y mejoramiento progresivo de ingresos con vistas a alcanzar la autonomía económica. 
 
 Normativa: el programa se crea en el año 2020 (RESOL-2020-121-APN-MDS). Sus lineamientos generales y operativos quedan establecidos mediante la resolución RESOL-2021-1868-APN-MDS.
 
 
-#### Indicador Cantidad Titulares activos 
+### Indicador Cantidad Titulares activos 
 
 *Descripción del indicador*: el indicador refleja la cantidad de titulares que perciben la prestación económica mensual, denominada Salario Social Complementario, y cumplen la contraprestación formativa o laboral establecida en las condiciones de permanencia en el programa. 
 
@@ -21,7 +21,7 @@ Normativa: el programa se crea en el año 2020 (RESOL-2020-121-APN-MDS). Sus lin
 *Observaciones*: el dato informado corresponde al último mes informado por el programa. 
 
 
-#### Indicador Inversión 
+### Indicador Inversión 
 
 *Descripción del indicador*: el indicador refleja la inversión monetaria correspondiente a las liquidaciones y pagos realizados en concepto de Salario Social Complementario. 
 
