@@ -7,10 +7,9 @@ Tiene como objetivo principal registrar a las y los trabajadores de la economía
 
 Normativa: Resolución 408/2020 (RESOL-2020-408-APN-MDS)
 
-
 ### Indicador Personas inscriptas
 
-*Descripción del indicador*: el indicador refleja la cantidad de personas mayores de 18 años que se encuentran inscriptas en el registro. 
+*Descripción del indicador*: el indicador refleja la cantidad de personas mayores de 18 años que se encuentran inscriptas en el registro.
 
 *Unidad de medida*: personas  mayores de 18 años
 
