@@ -1,5 +1,5 @@
 # Mapa de Inversión Social del Ministerio de Desarrollo Social
-En este repositorio vas a encontrar información y metadata del [Mapa de Inversión Social del Ministerio Social](https://reportes.mds.gob.ar)
+En este repositorio vas a encontrar información y metadata del [Mapa de Inversión Social del Ministerio de Desarrollo Social de la Nación](https://reportes.mds.gob.ar)
 
 ## Contenido
 ### ¿Qué es el Mapa de Inversión Social?
