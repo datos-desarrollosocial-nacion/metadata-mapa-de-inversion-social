@@ -59,3 +59,7 @@ Además, lleva adelante una cuarta línea de intervención: **Lotes con Servicio
 *Frecuencia*: mensual 
 
 *Fuente*: Secretaría de Integración Sociourbana
+
+#### Datos 
+
+Podés descargarte los datasets en el [portal de Datos Abiertos del Ministerio de Desarrollo Social](https://datosabiertos.desarrollosocial.gob.ar/dataset/proyectos-de-integracion-socio-urbana)
