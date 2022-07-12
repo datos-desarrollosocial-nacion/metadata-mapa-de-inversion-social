@@ -70,3 +70,7 @@ El Programa Mi Pieza tiene como objetivo brindar financiamiento para la compra d
 *Frecuencia*: según fechas de apertura del programa
 
 *Fuente*: Formulario de inscripción al programa Mi Pieza, Secretaría de Integración Sociourbana.
+
+#### Datos 
+
+Podés descargarte los datasets en el [portal de Datos Abiertos del Ministerio de Desarrollo Social](https://datosabiertos.desarrollosocial.gob.ar/dataset/listado-de-participantes-de-los-sorteos-mi-pieza)
