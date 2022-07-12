@@ -20,6 +20,9 @@ En este repositorio vas a encontrar información y metadata del [Mapa de Inversi
 #### Mi Pieza
 - [Metadata](mi-pieza.md) 
 - [Reporte](https://reportes.mds.gob.ar/r/14)
+#### Mapa de Integración sociourbana
+- [Metadata](mapa-de-integración-sociourbana.md) 
+- [Reporte](https://reportes.mds.gob.ar/superset/dashboard/4/)
 #### Mejor Barrio
 - [Metadata](mejor-barrio.md) 
 - [Reporte](https://reportes.mds.gob.ar/r/15)
