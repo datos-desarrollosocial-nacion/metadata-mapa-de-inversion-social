@@ -7,22 +7,22 @@ Normativa: Resolución RESOL 2021-1549-APN-MDS.
 
 ### Indicador Cantidad de destinatarios 
 
-*Descripción del indicador*: el indicador refleja la cantidad de personas que se constituyen en destinatarios de la prestación -niños, niñas y adolescentes hasta 14 años, mujeres embarazadas, niños, niñas y adolescentes con discapacidad (sin límite de edad); quienes perciban respectivamente a través de la Administración Nacional de Seguridad Social (ANSES) las siguientes asignaciones no contributivas: Asignación Universal por Hijo (AUH), Asignación Universal por Embarazo para Protección Social (AUE), Asignación por Hijo con Discapacidad, Pensión No Contributiva para madre de siete o más hijos-.
+*Descripción del indicador*: el indicador refleja la cantidad de personas que se constituyen en destinatarios de la prestación -niñas, niños y adolescentes hasta 14 años; mujeres embarazadas; niñas, niños y adolescentes con discapacidad (sin límite de edad); quienes perciban respectivamente a través de la Administración Nacional de Seguridad Social (ANSES) las siguientes asignaciones no contributivas: Asignación Universal por Hijo (AUH), Asignación Universal por Embarazo para Protección Social (AUE), Asignación por Hijo con Discapacidad, Pensión No Contributiva para madre de siete o más hijos.
 
 *Unidad de medida*: personas (número absoluto).
 
-*Desagregación*: nacional, provincial y según tipo de destinatario (menores de 14 años, embarazadas, hijos con discapacidad)
+*Desagregación*: nacional, provincial y según tipo de destinatario (menores de 14 años, embarazadas, hijos con discapacidad).
 
 *Frecuencia*: mensual.
 
-*Fuente*: Coordinación de Procesamiento y Liquidación de Aportes Para la inclusión Social, dependiente de la Dirección de Servicios Digitales, Informática y Telecomunicaciones, Secretaría de Gestión Administrativa. 
+*Fuente*: Coordinación de Procesamiento y Liquidación de Aportes para la Inclusión Social, dependiente de la Dirección de Servicios Digitales, Informática y Telecomunicaciones, Secretaría de Gestión Administrativa. 
 
 *Observaciones*: el dato informado corresponde al último mes informado por el programa. 
 
 
 ### Indicador Cantidad de titulares
 
-*Descripción del indicador*: el indicador refleja el número de titulares que se constituyen en titulares de la prestación -madres y padres que perciben AUH con hijos menores de 14 años o con discapacidad sin límite de edad; embarazadas que perciben AUE y titulares de Pensión No Contributiva Madres de siete hijos o más, con hijos menores de 14 años-. A la fecha, el monto de la prestación para titulares con 1 hijo es de $9.000, para titulares con 2 hijos es de $ 13.500 y para titulares con 3 hijos o más asciende a $ 18.000 pesos.
+*Descripción del indicador*: el indicador refleja el número de titulares que se constituyen en titulares de la prestación -madres y padres que perciben AUH con hijas e hijos menores de 14 años o con discapacidad sin límite de edad; embarazadas que perciben AUE y titulares de Pensión No Contributiva madres de siete hijos o más, con hijas e hijos menores de 14 años-. A la fecha, el monto de la prestación para titulares con 1 hija/o es de $9.000, para titulares con 2 hijas/os es de $ 13.500 y para titulares con 3 hijas/os o más asciende a $ 18.000 pesos.
 
 *Unidad de medida*: personas (número absoluto y porcentaje).
 
@@ -30,9 +30,9 @@ Normativa: Resolución RESOL 2021-1549-APN-MDS.
 
 *Frecuencia*: mensual.
 
-*Fuente*: Coordinación de Procesamiento y Liquidación de Aportes Para la inclusión Social, Dirección de Servicios Digitales, Informática y Telecomunicaciones, Secretaría de Gestión Administrativa. 
+*Fuente*: Coordinación de Procesamiento y Liquidación de Aportes para la Inclusión Social, Dirección de Servicios Digitales, Informática y Telecomunicaciones, Secretaría de Gestión Administrativa. 
 
-*Observaciones*: el dato informado corresponde al último mes informado por el programa. Los montos de la prestación se actualizaron por última vez en el mes de abril de 2022.
+*Observaciones*: el dato informado corresponde al último mes informado por el programa. Los montos de la prestación se actualizaron por última vez en abril de 2022.
 
 
 ### Indicador Inversión 
@@ -41,10 +41,10 @@ Normativa: Resolución RESOL 2021-1549-APN-MDS.
 
 *Unidad de medida*: millones de pesos.
 
-*Desagregación*: nacional, provincial, acumulada y mensual
+*Desagregación*: nacional, provincial, acumulada y mensual.
 
 *Frecuencia*: mensual.
 
-*Fuente*: Coordinación de Procesamiento y Liquidación de Aportes Para la inclusión Social, Dirección de Servicios Digitales, Informática y Telecomunicaciones, Secretaría de Gestión Administrativa. 
+*Fuente*: Coordinación de Procesamiento y Liquidación de Aportes para la Inclusión Social, Dirección de Servicios Digitales, Informática y Telecomunicaciones, Secretaría de Gestión Administrativa. 
 
-*Observaciones*: durante el período comprendido entre diciembre de 2019  y octubre de 2021 la transferencia a titulares se implementó mediante dos mecanismos: transferencia a la cuenta bancaria de cobro de la Asignación Universal por hijo o acreditación en una tarjeta de débito exclusiva para el cobro de la prestación Alimentar, denominada “Tarjeta Alimentar”. La inversión incluye el pago de refuerzos extraordinarios en los meses de mayo y diciembre de 2020.
+*Observaciones*: durante el período comprendido entre diciembre de 2019  y octubre de 2021, la transferencia a titulares se implementó mediante dos mecanismos: transferencia a la cuenta bancaria de cobro de la Asignación Universal por Hijo o acreditación en una tarjeta de débito exclusiva para el cobro de la Prestación Alimentar, denominada “Tarjeta Alimentar”. La inversión incluye el pago de refuerzos extraordinarios en mayo y diciembre de 2020.
