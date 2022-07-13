@@ -1,18 +1,18 @@
 # Seguridad y soberanía alimentaria
 ## Comedores escolares
 
-Transferencia monetaria que refuerza los fondos provinciales destinados a comedores escolares, de escuelas a las que concurren niños y niñas que se encuentran en situación de riesgo socio educativo. El refuerzo económico se destina a solventar la compra de alimentos para mejorar los servicios alimentarios que brindan las instituciones. Se ejecuta mediante la firma de convenios con las provincias, los cuales se renuevan anualmente.
+Transferencia monetaria que refuerza los fondos provinciales destinados a comedores escolares, de escuelas a las que concurren niñas y niños que se encuentran en situación de riesgo socio educativo. El refuerzo económico se destina a solventar la compra de alimentos para mejorar los servicios alimentarios que brindan las instituciones. Se ejecuta mediante la firma de convenios con las provincias, los cuales se renuevan anualmente.
 
 
 ### Indicador Cantidad de escuelas 
 
 *Descripción del indicador*: el indicador refleja la cantidad de escuelas de los niveles iniciales, Primario-EGB y rural, que reciben transferencias de fondos a partir de la firma de un convenio entre el Ministerio de Desarrollo Social de la Nación y las provincias asistidas.
 
-*Desagregación*: provincial y nacional
+*Desagregación*: provincial y nacional.
 
-*Unidad de medida*: escuelas (número absoluto)
+*Unidad de medida*: escuelas (número absoluto).
 
-*Frecuencia*: según convenio vigente
+*Frecuencia*: según convenio vigente.
 
 *Fuente*: Secretaría de Inclusión Social.
 
@@ -21,17 +21,17 @@ Transferencia monetaria que refuerza los fondos provinciales destinados a comedo
 
 ### Indicador Cantidad de niñas y niños 
 
-*Descripción del indicador*: el indicador refleja la cantidad de alumnos que concurren regularmente a escuelas que son asistidas a través de las transferencias monetarias que realiza el Ministerio de Desarrollo Social de la Nación, según lo establecido en los convenios celebrados con las provincias asistidas.
+*Descripción del indicador*: el indicador refleja la cantidad de alumnas y alumnos que concurren regularmente a escuelas que son asistidas a través de las transferencias monetarias que realiza el Ministerio de Desarrollo Social de la Nación, según lo establecido en los convenios celebrados con las provincias asistidas.
 
-*Unidad de medida*: personas (número absoluto)
+*Unidad de medida*: personas (número absoluto).
 
-*Desagregación*: provincial y nacional
+*Desagregación*: provincial y nacional.
 
-*Frecuencia*: según convenio vigente
+*Frecuencia*: según convenio vigente.
 
 *Fuente*: Secretaría de Inclusión Social.
 
-*Observaciones*: el dato corresponde al último convenio vigente
+*Observaciones*: el dato corresponde al último convenio vigente.
 
 
 ### Indicador Inversión 
@@ -40,7 +40,7 @@ Transferencia monetaria que refuerza los fondos provinciales destinados a comedo
 
 *Unidad de medida*: millones de pesos.
 
-*Desagregación*: nacional, provincial y acumulada 
+*Desagregación*: nacional, provincial y acumulada. 
 
 *Frecuencia*: mensual.
 
