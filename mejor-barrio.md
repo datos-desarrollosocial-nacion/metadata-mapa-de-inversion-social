@@ -10,20 +10,20 @@ Consiste en la construcción de playones multideportivos con el objetivo de llev
 
 *Unidad de medida*: playones multideportivos (número absoluto).
 
-*Desagregación*: nacional, provincial y según tipo de organización ejecutora 
+*Desagregación*: nacional, provincial y según tipo de organización ejecutora. 
 
-*Frecuencia*: mensual
+*Frecuencia*: mensual.
 
-*Fuente*: Secretaría de Articulación de Política Social
+*Fuente*: Secretaría de Articulación de Política Social.
 
 ### Indicador Inversión 
 
 *Descripción del indicador*: el indicador refleja el monto total pagado a los organismos y  organizaciones ejecutoras, en concepto de subsidio no reintegrable para la construcción de playones multideportivos.
 
-*Unidad de medida*: millones de pesos 
+*Unidad de medida*: millones de pesos. 
 
-*Desagregación*: nacional, provincial, acumulado y evolución mensual 
+*Desagregación*: nacional, provincial, acumulado y evolución mensual. 
 
-*Frecuencia*: mensual
+*Frecuencia*: mensual.
 
-*Fuente*: Secretaría de Articulación de Política Social
+*Fuente*: Secretaría de Articulación de Política Social.
