@@ -3,7 +3,7 @@
 
 El objetivo general del programa es contribuir al mejoramiento de la empleabilidad y la generación de nuevas propuestas productivas a través de la terminalidad educativa, la formación laboral, la certificación de competencias, así como también la creación, promoción y fortalecimiento de unidades productivas gestionadas por personas físicas que se encuentren en situación de alta vulnerabilidad social y económica, con la finalidad de promover su inclusión social plena y mejoramiento progresivo de ingresos con vistas a alcanzar la autonomía económica. 
 
-Normativa: el programa se crea en el año 2020 (RESOL-2020-121-APN-MDS). Sus lineamientos generales y operativos quedan establecidos mediante la resolución RESOL-2021-1868-APN-MDS.
+Normativa: el programa se crea en 2020 (RESOL-2020-121-APN-MDS). Sus lineamientos generales y operativos quedan establecidos mediante la resolución RESOL-2021-1868-APN-MDS.
 
 
 ### Indicador Cantidad Titulares activos 
@@ -14,9 +14,9 @@ Normativa: el programa se crea en el año 2020 (RESOL-2020-121-APN-MDS). Sus lin
 
 *Desagregación*: nacional y provincial, según sexo del DNI y rangos etarios (18-29 años, 30-39 años, 40-49 años, 50 años o más).
 
-*Frecuencia*: mensual
+*Frecuencia*: mensual.
 
-*Fuente*: base de titulares del Programa, Secretaría de Economía Social.
+*Fuente*: base de titulares del programa, Secretaría de Economía Social.
 
 *Observaciones*: el dato informado corresponde al último mes informado por el programa. 
 
@@ -33,4 +33,4 @@ Normativa: el programa se crea en el año 2020 (RESOL-2020-121-APN-MDS). Sus lin
 
 *Fuente*: liquidaciones y base de titulares del programa, Secretaría de Economía Social.
 
-*Observaciones*: la inversión incluye el pago de un bono extraordinario en los meses de marzo, junio, julio y diciembre de 2020, y en los meses de junio y diciembre de 2021. En los últimos tres meses informados, puede haber ajustes retroactivos que expresan la actualización de datos entre liquidaciones y pagos efectivamente realizados. 
+*Observaciones*: la inversión incluye el pago de un bono extraordinario en marzo, junio, julio y diciembre de 2020; y en junio y diciembre de 2021. En los últimos tres meses informados, puede haber ajustes retroactivos que expresan la actualización de datos entre liquidaciones y pagos efectivamente realizados. 
