@@ -1,11 +1,13 @@
 # Cuidados de la primera infancia y la adolescencia
-## Apoyo al Plan Nacional de primera infancia
+## Apoyo al Plan Nacional de Primera Infancia
 
-Este programa tiene por objetivo la realización de obras edilicias y de infraestructura en el marco del Plan Nacional de primera infancia (PNPI) para el fortalecimiento institucional de los Centros de Desarrollo Infantil (CDI) en funcionamiento y para la ampliación de la cobertura de servicios públicos dirigidos a la promoción del desarrollo de las habilidades físicas, de lenguaje y comunicación, cognitivas y socioemocionales de niños de 0 a 4 años.
+Este programa tiene por objetivo la realización de obras edilicias y de infraestructura en el marco del Plan Nacional de Primera Infancia (PNPI) para el fortalecimiento institucional de los Centros de Desarrollo Infantil (CDI) en funcionamiento; y para la ampliación de la cobertura de servicios públicos dirigidos a la promoción del desarrollo de las habilidades físicas, de lenguaje y comunicación, cognitivas y socioemocionales de niñas y niños de 0 a 4 años.
 
 ### Indicador Cantidad de niños y niñas en Centros de Desarrollo Infantil en construcción y/o refacción.
 
-*Descripción del indicador*: el indicador refleja la cantidad de niños y niñas en Centros de Desarrollo Infantil construidos o refaccionados en el marco del programa de Apoyo al PNPI. Unidad de medida: niños y niñas (número absoluto).
+*Descripción del indicador*: el indicador refleja la cantidad de niñas y niños en Centros de Desarrollo Infantil construidos o refaccionados en el marco del programa de Apoyo al PNPI 
+
+Unidad de medida: niñas y niños (número absoluto).
 
 *Desagregación*: nacional y provincial. 
 
