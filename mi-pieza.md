@@ -65,7 +65,7 @@ El Programa Mi Pieza tiene como objetivo brindar financiamiento para la compra d
 
 *Unidad de medida*: familias (número absoluto y porcentaje).  
 
-*Desagregación*: nacional y provincial, con al menos 3 hijos menores de 18 años y con al menos un integrante con discapacidad.
+*Desagregación*: nacional, provincial, con al menos 3 hijos menores de 18 años y con al menos un integrante con discapacidad.
 
 *Frecuencia*: según fechas de apertura del programa.
 
