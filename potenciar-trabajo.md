@@ -12,7 +12,7 @@ Normativa: el programa se crea en 2020 (RESOL-2020-121-APN-MDS). Sus lineamiento
 
 *Unidad de medida*: titulares activos  (número absoluto y porcentaje).
 
-*Desagregación*: nacional y provincial, según sexo del DNI y rangos etarios (18-29 años, 30-39 años, 40-49 años, 50 años o más).
+*Desagregación*: nacional, provincial, según sexo del DNI y rangos etarios (18-29 años, 30-39 años, 40-49 años, 50 años o más).
 
 *Frecuencia*: mensual.
 
