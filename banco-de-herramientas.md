@@ -10,15 +10,15 @@ El programa tiene por objeto la entrega de insumos, herramientas y/o equipamient
 **Normativa:** el programa se crea en 2020 mediante la Resolución RESOL-2020-131-APN-MDS.
 
 
-### Indicador Cantidad de personas incluidas en Bancos 
+### Indicador Cantidad de Bancos
 
-_Descripción del indicador_: refleja la cantidad de personas participantes de los proyectos que integran los  Planes de Actividades de los Bancos de Maquinarias, Herramientas y Materiales.
+_Descripción del indicador_: el indicador refleja la cantidad de organismos  gubernamentales (municipales y provinciales) y organizaciones no gubernamentales que se constituyen en Bancos de Maquinarias, Herramientas y Materiales.
 
-_Unidad de medida_: personas que se encuentren en situación de alta vulnerabilidad social y económica (número absoluto y porcentaje).
+_Unidad de medida_: Bancos de Maquinarias, Herramientas y Materiales.
 
-_Desagregación_: nacional, provincial y según tipo de proyecto.
+_Desagregación_: nacional, provincial y según tipo de organización ejecutora.
 
-_Frecuencia_: mensual.
+_Frecuencia_: mensual (número absoluto y porcentaje).
 
 _Fuente_: Secretaría de Articulación de Política Social. 
 
@@ -35,18 +35,22 @@ _Frecuencia_: mensual.
 
 _Fuente_: Secretaría de Articulación de Política Social. 
 
+_Observaciones_: La desagregación geográfica se realiza en función de la localización de los Bancos que financian los proyectos. 
 
-### Indicador Cantidad de Bancos
 
-_Descripción del indicador_: el indicador refleja la cantidad de organismos  gubernamentales (municipales y provinciales) y organizaciones no gubernamentales que se constituyen en Bancos de Maquinarias, Herramientas y Materiales.
+### Indicador Cantidad de personas incluidas en Bancos 
 
-_Unidad de medida_: Bancos de Maquinarias, Herramientas y Materiales.
+_Descripción del indicador_: refleja la cantidad de personas participantes de los proyectos que integran los Planes de Actividades de los Bancos de Maquinarias, Herramientas y Materiales.
 
-_Desagregación_: nacional, provincial y según tipo de organización ejecutora.
+_Unidad de medida_: personas que se encuentren en situación de alta vulnerabilidad social y económica (número absoluto y porcentaje).
 
-_Frecuencia_: mensual (número absoluto y porcentaje).
+_Desagregación_: nacional, provincial y según tipo de proyecto.
+
+_Frecuencia_: mensual.
 
 _Fuente_: Secretaría de Articulación de Política Social. 
+
+_Observaciones_: La desagregación geográfica se realiza en función de la localización de los Bancos que financian los proyectos. 
 
 
 ### Indicador Inversión
