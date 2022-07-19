@@ -50,7 +50,7 @@ Además, lleva adelante una cuarta línea de intervención: **Lotes con Servicio
 
 ### Indicador Inversión 
 
-*Descripción del indicador*: el indicador refleja el monto total pagado a las organizaciones ejecutoras de los proyectos POT, Pre-PEG, PEG y Lotes con Servicios.
+*Descripción del indicador*: el indicador refleja el monto total conveniado con las organizaciones ejecutoras de los proyectos POT, Pre-PEG, PEG y Lotes con Servicios.
 
 *Unidad de medida*: millones de pesos. 
 
