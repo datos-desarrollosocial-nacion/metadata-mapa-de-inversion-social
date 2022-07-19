@@ -54,6 +54,6 @@ b) las personas que tienen una ocupación pero que no estaban trabajando tempora
 
 **Fuente**: Encuesta Permanente de Hogares (EPH), INDEC.
 
-**Personas asalariadas sin descuento jubilatorio**: porcentaje de la población asalariada, cuyo empleador no realiza los aportes correspondientes al sistema de seguridad social, en relación al total de la población asalariada.
+**Porcentaje de personas asalariadas sin descuento jubilatorio**: porcentaje de la población asalariada, cuyo empleador no realiza los aportes correspondientes al sistema de seguridad social, en relación al total de la población asalariada.
 
 **Fuente:** Encuesta Permanente de Hogares (EPH), INDEC.
