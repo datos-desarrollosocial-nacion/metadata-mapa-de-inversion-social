@@ -17,9 +17,6 @@ Normativa: Ley 27.452 “Ley Brisa” - Régimen de Reparación Económica para 
 
 *Fuente*: Secretaría Nacional de Niñez, Adolescencia y Familia (SENAF).
 
-*Observaciones*: el dato informado corresponde al último mes informado por el programa. 
-
-
 ### Indicador Inversión
 
 *Descripción del indicador*: el indicador refleja los fondos pagados en concepto de reparación económica percibida por niñas, niños y adolescentes incluidos en el programa. 

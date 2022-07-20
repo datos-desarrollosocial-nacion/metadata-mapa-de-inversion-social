@@ -18,9 +18,6 @@ Normativa: el programa se crea en 2020 (RESOL-2020-121-APN-MDS). Sus lineamiento
 
 *Fuente*: base de titulares del programa, Secretaría de Economía Social.
 
-*Observaciones*: el dato informado corresponde al último mes informado por el programa. 
-
-
 ### Indicador Inversión 
 
 *Descripción del indicador*: el indicador refleja la inversión monetaria correspondiente a las liquidaciones y pagos realizados en concepto de Salario Social Complementario. 

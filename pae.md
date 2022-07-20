@@ -11,14 +11,11 @@ Normativa: Ley 27.364 - Programa de Acompañamiento para el egreso de jóvenes s
 
 *Unidad de medida*: adolescentes y jóvenes (número absoluto).
 
-Desagregación: nacional y provincial. 
+*Desagregación*: nacional y provincial. 
 
-Frecuencia: mensual.
+*Frecuencia*: mensual.
 
-Fuente: Secretaría Nacional de Niñez, Adolescencia y Familia (SENAF).
-
-Observaciones: el dato informado corresponde al último mes informado por el programa. 
-
+*Fuente*: Secretaría Nacional de Niñez, Adolescencia y Familia (SENAF).
 
 ### Indicador Inversión
 

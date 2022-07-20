@@ -17,8 +17,6 @@ Normativa: el programa se crea mediante la Resolución 20/2021 (RESOL-2021-20-AP
 
 *Fuente*: Secretaría de Inclusión Social.
 
-*Observaciones*: el dato informado corresponde al último mes informado por el programa. 
-
 ### Indicador Inversión 
 
 *Descripción del indicador*: el indicador refleja el monto total pagado a jóvenes participantes del programa, en concepto de estímulo económico.
