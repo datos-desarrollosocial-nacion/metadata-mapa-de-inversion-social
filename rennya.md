@@ -22,7 +22,7 @@ Normativa: Ley 27.452 “Ley Brisa” - Régimen de Reparación Económica para 
 
 ### Indicador Inversión
 
-*Descripción del indicador*: el indicador refleja los fondos pagados en concepto de reparación económica percibida por niñas, niños y adolescentes incluidos en el programa.
+*Descripción del indicador*: el indicador refleja los fondos pagados en concepto de reparación económica percibida por niñas, niños y adolescentes incluidos en el programa. 
 
 Unidad de medida: millones de pesos.
 
@@ -32,4 +32,4 @@ Unidad de medida: millones de pesos.
 
 *Fuente*: Secretaría Nacional de Niñez, Adolescencia y Familia (SENAF).
 
-*Observaciones*: el dato informado corresponde al último mes informado por el programa. 
+*Observaciones*: Incluye pagos retroactivos asignados al mes en que se efectuó el pago.
