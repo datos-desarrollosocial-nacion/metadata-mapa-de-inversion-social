@@ -14,7 +14,7 @@ La producción y difusión de información constituye uno de los principios rect
 
 ### ¿Qué información presenta el Mapa de Inversión Social?
 
-El **Mapa de Inversión Social** te permite acceder a información sobre el alcance, la distribución geográfica y la inversión que realiza el Estado nacional en materia de programas sociales. La información visualizada se organiza en cuatro ejes:
+El **Mapa de Inversión Social** te permite acceder a información sobre el alcance, la distribución geográfica y la inversión que realiza el Estado nacional en los principales programas sociales. La información visualizada se organiza en cuatro ejes:
 
 - Inclusión Sociolaboral y Desarrollo Local
 - Integración Sociourbana
@@ -25,7 +25,7 @@ También podés acceder a  información que surge del monitoreo de indicadores s
 
 ### ¿Cuál es la fuente de información del Mapa de Inversión Social?
 
-El **Mapa de Inversión Social** se nutre de información del monitoreo permanente que realiza la Dirección General de Información Social Estratégica del MDS. Los datos visualizados para cada programa o prestación corresponde a la información más reciente,  provista por las distintas Secretarías del Ministerio. 
+El **Mapa de Inversión Social** se nutre de información del monitoreo permanente que realiza la Dirección General de Información Social Estratégica del MDS. Los datos visualizados para cada programa o prestación corresponde a la información más reciente, provista por las distintas Secretarías del Ministerio. 
 
 ### ¿Cómo se navega el Mapa de Inversión Social?
 
