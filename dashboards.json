@@ -213,6 +213,13 @@
         "uuid": "4be6590f-83b7-4f76-a6f9-f33d6069b6a7",
         "icon": "icono-arg-trigo-2",
         "size": 1800
+      },
+      {
+        "title": "Comedores escolares",
+        "order": 2,
+        "uuid": "46588099-a5fe-4425-a9c3-9aa58ff3fddf",
+        "icon": "icono-arg-trigo-2",
+        "size": 1900
       }
     ]
   },
@@ -228,6 +235,13 @@
         "uuid": "bf71f064-87e7-4f77-a6f5-adb983c1aef3",
         "icon": "icono-arg-trigo-2",
         "size": 4000
+      },
+      {
+        "title": "Comedores escolares",
+        "order": 2,
+        "uuid": "1342a974-4d4a-47c0-a044-a865c463f153",
+        "icon": "icono-arg-trigo-2",
+        "size": 2400
       }
     ]
   },
