@@ -29,7 +29,7 @@ _Descripción del indicador_: refleja el número de proyectos incluidos en los P
 
 _Unidad de medida_: proyectos incluidos en los Planes de Actividades de los Bancos (número absoluto).
 
-_Desagregación_: nacional y provincial.
+_Desagregación_: nacional, provincial y según tipo de proyecto.
 
 _Frecuencia_: mensual.
 
