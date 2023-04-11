@@ -244,35 +244,5 @@
         "size": 2400
       }
     ]
-  },
-  {
-    "order_eje": 5,
-    "eje": "Estudios estrat\u00e9gicos",
-    "tipo": "desktop",
-    "home_url": "estudios",
-    "dashboards": [
-      {
-        "title": "Estudios sobre prestaci\u00f3n Alimentar",
-        "order": 2,
-        "uuid": "80cfeed7-a01b-440d-b5d8-b4e079c34f8c",
-        "icon": "icono-arg-denuncia",
-        "size": 3500
-      }
-    ]
-  },
-  {
-    "order_eje": 5,
-    "eje": "Estudios estrat\u00e9gicos",
-    "tipo": "mobile",
-    "home_url": "estudios-mobile",
-    "dashboards": [
-      {
-        "title": "Estudios sobre prestaci\u00f3n Alimentar",
-        "order": 2,
-        "uuid": "de19f55b-ddab-41e1-9b61-4c11981b69da",
-        "icon": "icono-arg-denuncia",
-        "size": 4500
-      }
-    ]
   }
 ]
