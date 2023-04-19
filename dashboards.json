@@ -136,13 +136,6 @@
         "size": 1366
       },
       {
-        "title": "Inclusi\u00f3n Joven",
-        "order": 3,
-        "uuid": "6ad1d5f6-2126-4fa6-85fd-c107a66392c8",
-        "icon": "icono-arg-comisiones-cofefup-equipo",
-        "size": 1366
-      },
-      {
         "title": "Programa de acompa\u00f1amiento para el egreso de j\u00f3venes sin cuidados parentales",
         "order": 4,
         "uuid": "43ca29bf-5fe1-4e54-8ae6-19e75a6481a8",
@@ -175,13 +168,6 @@
         "title": "Construcci\u00f3n y refacci\u00f3n de Centros de Desarrollo infantil",
         "order": 2,
         "uuid": "75511c1a-01e5-4deb-b08b-32ae3671786a",
-        "icon": "icono-arg-comisiones-cofefup-equipo",
-        "size": 2300
-      },
-      {
-        "title": "Inclusi\u00f3n Joven",
-        "order": 3,
-        "uuid": "ab56098a-b642-45e2-982b-9884f8b26f62",
         "icon": "icono-arg-comisiones-cofefup-equipo",
         "size": 2300
       },
