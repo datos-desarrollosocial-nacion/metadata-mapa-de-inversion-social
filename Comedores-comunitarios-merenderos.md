@@ -1,4 +1,4 @@
-# **Comedores comunitarios **
+# **Comedores comunitarios**
 
 
 Transferencia monetaria a organizaciones no gubernamentales que realizan asistencia alimentaria. Esta línea de trabajo se lleva a cabo junto con el Programa de las Naciones Unidas para el Desarrollo (PNUD) y brinda asistencia técnica y financiera para solventar prestaciones alimentarias -desayuno, almuerzo, merienda, merienda reforzada y cena- en distintas formas: presencial, entrega de viandas o módulos alimentarios. Se ejecuta mediante la firma de convenios con las organizaciones que reciben la asistencia, los cuales se renuevan anualmente.
@@ -35,6 +35,8 @@ Transferencia monetaria a organizaciones no gubernamentales que realizan asisten
 
 
 
+
+
 # **Registro Nacional de Comedores y Merenderos Comunitarios de Organizaciones de la Sociedad Civil (RENACOM)**
 
 
@@ -53,7 +55,9 @@ Transferencia monetaria a organizaciones no gubernamentales que realizan asisten
 
 
 
-# **Merenderos y comedores **
+
+
+# **Merenderos y comedores**
 
 Transferencia monetaria a organizaciones no gubernamentales que realizan asistencia alimentaria. Esta línea de trabajo consiste en  el apoyo financiero para la compra de alimentos frescos. Se unifica en la inversión de esta línea de trabajo, el apoyo a merenderos que se implementó en años anteriores.
 
@@ -83,3 +87,5 @@ Transferencia monetaria a organizaciones no gubernamentales que realizan asisten
 *Frecuencia:* anual.
 
 *Fuente:* Secretaría de Inclusión Social.
+
+
