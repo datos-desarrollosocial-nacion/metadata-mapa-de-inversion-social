@@ -42,15 +42,15 @@ Transferencia monetaria a organizaciones no gubernamentales que realizan asisten
 
 **Indicador Cantidad de comedores y merenderos del RENACOM**
 
-*Descripción del indicador: *el indicador refleja la cantidad de comedores comunitarios y merenderos inscriptos en el RENACOM, el cual registra y acredita la existencia y funcionamiento de aquellos espacios físicos en los que se brindan servicios gratuitos de asistencia alimentaria a personas en situación de vulnerabilidad social.
+*Descripción del indicador:* el indicador refleja la cantidad de comedores comunitarios y merenderos inscriptos en el RENACOM, el cual registra y acredita la existencia y funcionamiento de aquellos espacios físicos en los que se brindan servicios gratuitos de asistencia alimentaria a personas en situación de vulnerabilidad social.
 
 *Unidad de medida:* comedores comunitarios y merenderos pre-inscriptos en RENACOM (número absoluto).
 
-*Desagregación: *nacional y provincial.
+*Desagregación:* nacional y provincial.
 
 *Frecuencia:* mensual.
 
-*Fuente: *Secretaría de Inclusión Social.
+*Fuente:* Secretaría de Inclusión Social.
 
 
 
@@ -82,7 +82,7 @@ Transferencia monetaria a organizaciones no gubernamentales que realizan asisten
 
 *Unidad de medida:* millones de pesos.
 
-*Desagregación: *nacional, provincial y acumulada.
+*Desagregación:* nacional, provincial y acumulada.
 
 *Frecuencia:* anual.
 
