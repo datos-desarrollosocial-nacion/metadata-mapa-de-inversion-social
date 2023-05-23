@@ -22,7 +22,7 @@ Transferencia monetaria a organizaciones no gubernamentales que realizan asisten
 
 **Indicador Inversión**
 
-*Descripción del indicador: *el indicador refleja el monto total transferido a las organizaciones, según lo establecido en los convenios celebrados entre el Ministerio de Desarrollo Social y las organizaciones asistidas. Incluye asistencia mensual y apoyo extraordinario para alimentos secos.
+*Descripción del indicador:* el indicador refleja el monto total transferido a las organizaciones, según lo establecido en los convenios celebrados entre el Ministerio de Desarrollo Social y las organizaciones asistidas. Incluye asistencia mensual y apoyo extraordinario para alimentos secos.
 
 *Unidad de medida:* millones de pesos.
 
@@ -64,9 +64,9 @@ Transferencia monetaria a organizaciones no gubernamentales que realizan asisten
 
 **Indicador Cantidad de merenderos y comedores**
 
-*Descripción del indicador: *el indicador refleja la cantidad de comedores comunitarios y merenderos asistidos a través de transferencias monetarias.
+*Descripción del indicador:* el indicador refleja la cantidad de comedores comunitarios y merenderos asistidos a través de transferencias monetarias.
 
-*Unidad de medida: *comedores comunitarios y merenderos (número absoluto).
+*Unidad de medida:* comedores comunitarios y merenderos (número absoluto).
 
 *Desagregación:* nacional y provincial.
 
