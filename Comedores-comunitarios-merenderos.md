@@ -4,7 +4,7 @@
 Transferencia monetaria a organizaciones no gubernamentales que realizan asistencia alimentaria. Esta línea de trabajo se lleva a cabo junto con el Programa de las Naciones Unidas para el Desarrollo (PNUD) y brinda asistencia técnica y financiera para solventar prestaciones alimentarias -desayuno, almuerzo, merienda, merienda reforzada y cena- en distintas formas: presencial, entrega de viandas o módulos alimentarios. Se ejecuta mediante la firma de convenios con las organizaciones que reciben la asistencia, los cuales se renuevan anualmente.
 
 
-**Indicador Cantidad de comedores comunitarios **
+**Indicador Cantidad de comedores comunitarios**
 
 
 *Descripción del indicador:* el indicador refleja la cantidad de comedores comunitarios asistidos mensualmente a través de transferencias monetarias, según convenios celebrados entre el Ministerio de Desarrollo Social y las organizaciones asistidas.
