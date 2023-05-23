@@ -11,11 +11,11 @@ Transferencia monetaria a organizaciones no gubernamentales que realizan asisten
 
 *Unidad de medida:* comedores comunitarios (número absoluto).
 
-*Desagregación: *nacional y provincial.
+*Desagregación:* nacional y provincial.
 
 *Frecuencia:* anual.
 
-*Fuente: *Secretaría de Inclusión Social.
+*Fuente:* Secretaría de Inclusión Social.
 
 *Observaciones:* el dato informado corresponde al último año informado por el área.
 
