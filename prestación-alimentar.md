@@ -19,7 +19,7 @@ Normativa: Resolución RESOL 2021-1549-APN-MDS.
 
 ### Indicador Cantidad de titulares
 
-*Descripción del indicador*: el indicador refleja el número de titulares que se constituyen en titulares de la prestación -madres y padres que perciben AUH con hijas e hijos menores de 14 años o con discapacidad sin límite de edad; embarazadas que perciben AUE y titulares de Pensión No Contributiva madres de siete hijos o más, con hijas e hijos menores de 14 años-. A la fecha, el monto de la prestación para titulares con 1 hija/o es de $9.000, para titulares con 2 hijas/os es de $ 13.500 y para titulares con 3 hijas/os o más asciende a $ 18.000 pesos.
+*Descripción del indicador*: el indicador refleja el número de titulares que se constituyen en titulares de la prestación -madres y padres que perciben AUH con hijas e hijos menores de 14 años o con discapacidad sin límite de edad; embarazadas que perciben AUE y titulares de Pensión No Contributiva madres de siete hijos o más, con hijas e hijos menores de 14 años-. A la fecha, el monto de la prestación para titulares con 1 hija/o es de $17.000, para titulares con 2 hijas/os es de $ 26.000 y para titulares con 3 hijas/os o más asciende a $ 34.000 pesos.
 
 *Unidad de medida*: personas (número absoluto y porcentaje).
 
@@ -27,9 +27,9 @@ Normativa: Resolución RESOL 2021-1549-APN-MDS.
 
 *Frecuencia*: mensual.
 
-*Fuente*: Coordinación de Procesamiento y Liquidación de Aportes para la Inclusión Social, Dirección de Servicios Digitales, Informática y Telecomunicaciones, Secretaría de Gestión Administrativa. 
+*Fuente*: Coordinación de Procesamiento y Liquidación de Aportes para la Inclusión Social, Dirección de Servicios Digitales, Informática y Telecomunicaciones, Secretaría de Gestión Administrativa. La información de sexo de los titulares según DNI se obtiene de registros administrativos del Registro Nacional de las Personas (RENAPER). 
 
-*Observaciones*: el dato informado corresponde al último mes informado por el programa. Los montos de la prestación se actualizaron por última vez en abril de 2022.
+*Observaciones*: el dato informado corresponde al último mes informado por el programa. Los montos de la prestación se actualizaron por última vez en mayo de 2023.
 
 
 ### Indicador Inversión 
