@@ -1,7 +1,7 @@
 [
     {
         "order_eje": 1,
-        "eje": "Inclusi\u00f3n sociolaboral y desarrollo local",
+        "eje": "Inclusi\u00f3n laboral y econom\u00eda popular",
         "tipo": "desktop",
         "home_url": "inclusion-sociolaboral",
         "id": [
@@ -27,7 +27,7 @@
     },
     {
         "order_eje": 1,
-        "eje": "Inclusi\u00f3n sociolaboral y desarrollo local",
+        "eje": "Inclusi\u00f3n laboral y econom\u00eda popular",
         "tipo": "mobile",
         "home_url": "inclusion-sociolaboral-mobile",
         "id": [
@@ -53,7 +53,7 @@
     },
     {
         "order_eje": 2,
-        "eje": "Integraci\u00f3n sociourbana",
+        "eje": "Integraci\u00f3n socio urbana",
         "tipo": "desktop",
         "home_url": "inclusion-sociourbana",
         "id": [
@@ -95,7 +95,7 @@
     },
     {
         "order_eje": 2,
-        "eje": "Integraci\u00f3n sociourbana",
+        "eje": "Integraci\u00f3n socio urbana",
         "tipo": "mobile",
         "home_url": "inclusion-sociourbana-mobile",
         "id": [
@@ -137,7 +137,7 @@
     },
     {
         "order_eje": 3,
-        "eje": "Cuidados de la primera infancia y adolescencia",
+        "eje": "Crecer con derechos",
         "tipo": "desktop",
         "home_url": "infancia",
         "id": [
@@ -187,7 +187,7 @@
     },
     {
         "order_eje": 3,
-        "eje": "Cuidados de la primera infancia y adolescencia",
+        "eje": "Crecer con derechos",
         "tipo": "mobile",
         "home_url": "infancia-mobile",
         "id": [
