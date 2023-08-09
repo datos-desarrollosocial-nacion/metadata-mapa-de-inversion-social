@@ -18,3 +18,5 @@ Normativa: Resolución 408/2020 (RESOL-2020-408-APN-MDS).
 *Frecuencia*: mensual (números absolutos).
 
 *Fuente*: Dirección del Registro Nacional de Efectores de Desarrollo Local y Economía Social, Secretaría de Economía Social.
+
+*Observaciones*: la fecha inicial de "Período" corresponde a la fecha de creación del registro, mientras que la final, corresponde al mes de consulta. Los datos son acumulados.
