@@ -242,7 +242,8 @@
         "home_url": "alimentaria",
         "id": [
             50,
-            51
+            51,
+            169
         ],
         "dashboards": [
             {
@@ -258,6 +259,13 @@
                 "uuid": "46588099-a5fe-4425-a9c3-9aa58ff3fddf",
                 "icon": "icono-arg-trigo-2",
                 "size": 1900
+            },
+            {
+                "title": "Registro Nacional de Comedores y Merenderos Comunitarios de Organizaciones de la Sociedad Civil (RENACOM)",
+                "order": 3,
+                "uuid": "60e8f54c-eca0-438b-bccf-701ed8992744",
+                "icon": "icono-arg-trigo-2",
+                "size": 1366
             }
         ]
     },
@@ -268,7 +276,8 @@
         "home_url": "alimentaria-mobile",
         "id": [
             55,
-            56
+            56,
+            170
         ],
         "dashboards": [
             {
@@ -284,6 +293,13 @@
                 "uuid": "1342a974-4d4a-47c0-a044-a865c463f153",
                 "icon": "icono-arg-trigo-2",
                 "size": 2400
+            },
+            {
+                "title": "Registro Nacional de Comedores y Merenderos Comunitarios de Organizaciones de la Sociedad Civil (RENACOM)",
+                "order": 3,
+                "uuid": "cea867e7-2958-4273-b040-c708e4dc21c6",
+                "icon": "icono-arg-trigo-2",
+                "size": 1366
             }
         ]
     }
