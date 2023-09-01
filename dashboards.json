@@ -6,7 +6,8 @@
         "home_url": "inclusion-sociolaboral",
         "id": [
             38,
-            39
+            39,
+            162
         ],
         "dashboards": [
             {
@@ -22,6 +23,13 @@
                 "uuid": "fa5cbb9c-779b-4bea-a075-b780fee86c66",
                 "icon": "fa-cogs",
                 "size": 1366
+            },
+            {
+                "title": "RENACER Registro Nacional de Empresas Recuperadas",
+                "order": 3,
+                "uuid": "bf57c02d-d4fb-48ed-b7a2-25f8e0fbc2e6",
+                "icon": "fa-cogs",
+                "size": 1366
             }
         ]
     },
@@ -32,7 +40,8 @@
         "home_url": "inclusion-sociolaboral-mobile",
         "id": [
             61,
-            63
+            63,
+            172
         ],
         "dashboards": [
             {
@@ -48,6 +57,13 @@
                 "uuid": "c91b5b6d-4e16-4c63-81eb-97981f09a443",
                 "icon": "fa-cogs",
                 "size": 1666
+            },
+            {
+                "title": "RENACER Registro Nacional de Empresas Recuperadas",
+                "order": 3,
+                "uuid": "7b65db53-02d0-495f-8d3d-5e82a2becab2",
+                "icon": "fa-cogs",
+                "size": 2400
             }
         ]
     },
@@ -243,7 +259,7 @@
         "id": [
             50,
             51,
-            169
+            111
         ],
         "dashboards": [
             {
@@ -261,9 +277,9 @@
                 "size": 1900
             },
             {
-                "title": "Registro Nacional de Comedores y Merenderos Comunitarios de Organizaciones de la Sociedad Civil (RENACOM)",
+                "title": "RENACOM Registro de Comedores y Merenderos Comunitarios",
                 "order": 3,
-                "uuid": "60e8f54c-eca0-438b-bccf-701ed8992744",
+                "uuid": "d5e2b278-47c7-4009-9b0c-5ef01e166c49",
                 "icon": "icono-arg-trigo-2",
                 "size": 1366
             }
@@ -295,7 +311,7 @@
                 "size": 2400
             },
             {
-                "title": "Registro Nacional de Comedores y Merenderos Comunitarios de Organizaciones de la Sociedad Civil (RENACOM)",
+                "title": "RENACOM Registro de Comedores y Merenderos Comunitarios",
                 "order": 3,
                 "uuid": "cea867e7-2958-4273-b040-c708e4dc21c6",
                 "icon": "icono-arg-trigo-2",
