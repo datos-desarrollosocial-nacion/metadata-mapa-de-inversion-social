@@ -9,14 +9,14 @@ Normativa: Resolución 408/2020 (RESOL-2020-408-APN-MDS).
 
 ### Indicador Personas inscriptas
 
-*Descripción del indicador*: el indicador refleja la cantidad de personas mayores de 18 años que se encuentran inscriptas en el registro.
+*Descripción del indicador*: el indicador refleja la cantidad de personas mayores de 18 años que se encuentran inscriptas en el registro. Incluye las dos etapas sucesivas por las que atraviesan las personas interesadas en estar incluidas en el mismo: una primera en la que efectúan su “solicitud de inscripción”, en la que se encuentran “preinscriptas”, y una segunda en la que el organismo, tras evaluar dictar resolución, decide su efectiva inscripción, pasando a estar “inscriptas” en el Registro (o bien, a ser desestimada su solicitud, en los casos que no los reúnan los requisitos). De este modo, el indicador muestra la suma de las personas inscriptas y preinscriptas, al momento de la actualización de la información. 
 
-*Unidad de medida*: personas  mayores de 18 años.
+*Unidad de medida*: personas  mayores de 18 años (números absolutos)
 
 *Desagregación*: nacional y provincial.
 
-*Frecuencia*: mensual (números absolutos).
+*Frecuencia*: mensual.
 
 *Fuente*: Dirección del Registro Nacional de Efectores de Desarrollo Local y Economía Social, Secretaría de Economía Social.
 
-*Observaciones*: la fecha inicial de "Período" corresponde a la fecha de creación del registro, mientras que la final, corresponde al mes de consulta. Los datos son acumulados.
+*Observaciones*: la fecha inicial de "Período" corresponde a la fecha de creación del registro, mientras que la final, corresponde al mes de consulta. Los datos son acumulados. No se incluyen los casos con provincia “Sin informar”.
