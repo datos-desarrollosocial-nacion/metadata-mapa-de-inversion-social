@@ -7,9 +7,9 @@ Tiene como objetivo principal registrar a trabajadoras/es de la economía popula
 
 Normativa: Resolución 408/2020 (RESOL-2020-408-APN-MDS).
 
-### Indicador Personas inscriptas
+### Indicador Personas registradas
 
-*Descripción del indicador*: el indicador refleja la cantidad de personas mayores de 18 años que se encuentran inscriptas en el registro. Incluye las dos etapas sucesivas por las que atraviesan las personas interesadas en estar incluidas en el mismo: una primera en la que efectúan su “solicitud de inscripción”, en la que se encuentran “preinscriptas”, y una segunda en la que el organismo, tras evaluar dictar resolución, decide su efectiva inscripción, pasando a estar “inscriptas” en el Registro (o bien, a ser desestimada su solicitud, en los casos que no los reúnan los requisitos). De este modo, el indicador muestra la suma de las personas inscriptas y preinscriptas, al momento de la actualización de la información. 
+*Descripción del indicador*: el indicador refleja la cantidad de personas mayores de 18 años que se encuentran registradas en RENATEP. Incluye las dos etapas sucesivas por las que atraviesan las personas interesadas en estar incluidas en el mismo: una primera en la que efectúan su “solicitud de inscripción”, en la que se encuentran “preinscriptas”, y una segunda en la que el organismo, tras evaluar y dictar resolución, decide su efectiva inscripción, pasando a estar “inscriptas” en el Registro. De este modo, el indicador muestra la suma de las personas inscriptas y preinscriptas, al momento de la actualización de la información. 
 
 *Unidad de medida*: personas  mayores de 18 años (números absolutos)
 
