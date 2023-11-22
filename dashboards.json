@@ -29,7 +29,7 @@
                 "order": 3,
                 "uuid": "bf57c02d-d4fb-48ed-b7a2-25f8e0fbc2e6",
                 "icon": "fa-cogs",
-                "size": 1366
+                "size": 3600
             }
         ]
     },
@@ -84,7 +84,7 @@
                 "order": 1,
                 "uuid": "101d11b3-7796-44f6-be65-840af667e6db",
                 "icon": "icono-arg-barrio",
-                "size": 2660
+                "size": 1360
             },
             {
                 "title": "Obras de integraci\u00f3n urbana y acceso al suelo",
@@ -105,7 +105,7 @@
                 "order": 4,
                 "uuid": "678e3e90-a29c-4467-8060-2b87816a8942",
                 "icon": "icono-arg-barrio",
-                "size": 1366
+                "size": 1396
             }
         ]
     },
