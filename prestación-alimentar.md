@@ -27,7 +27,7 @@ Normativa: Resolución RESOL 2021-1549-APN-MDS.
 
 *Frecuencia*: mensual.
 
-*Fuente*: Coordinación de Procesamiento y Liquidación de Aportes para la Inclusión Social, Dirección de Servicios Digitales, Informática y Telecomunicaciones, Secretaría de Gestión Administrativa. La información de sexo de los titulares según DNI se obtiene de registros administrativos del Registro Nacional de las Personas (RENAPER). 
+*Fuente*: Coordinación de Procesamiento y Liquidación de Aportes para la Inclusión Social, Dirección de Servicios Digitales, Informática y Telecomunicaciones, Secretaría de Gestión Administrativa. La información de sexo de los titulares según DNI se obtiene de registros administrativos del Registro Nacional de las Personas (RENAPER). A partir del Decreto 476/2021, dichas categorías para esta variable son: “M” para masculino y “F” para femenino y “X” para no binario/ indeterminado/no informado.
 
 *Observaciones*: el dato informado corresponde al último mes informado por el programa. Los montos de la prestación se actualizaron por última vez en mayo de 2023.
 
