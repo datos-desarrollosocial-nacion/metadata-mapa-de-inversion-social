@@ -1,0 +1,8 @@
+site_name: Mapa de Inversión Social
+theme:
+  name: material
+  palette:
+    primary: light blue
+    accent: light blue
+
+  language: es
