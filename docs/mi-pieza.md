@@ -1,6 +1,3 @@
-# Integración Socio Urbana
-
-
 ## Programa Mi Pieza
 
 

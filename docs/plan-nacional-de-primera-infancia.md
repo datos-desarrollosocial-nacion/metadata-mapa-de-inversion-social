@@ -1,4 +1,3 @@
-# Cuidados de la primera infancia y la adolescencia
 ## Plan Nacional de Primera Infancia (PNPI)
 
 El objetivo del Plan Nacional de Primera Infancia es garantizar el desarrollo integral de niñas y niños de 45 días a 4 años de edad en situación de vulnerabilidad social, en pos de favorecer la promoción y protección de sus derechos, ofreciendo espacios de cuidado y abordaje integral a los niñas y niños en su primera infancia, que garanticen una adecuada y saludable nutrición, así como la estimulación temprana y promoción de la salud.

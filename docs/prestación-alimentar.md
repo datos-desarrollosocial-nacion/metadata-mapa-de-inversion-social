@@ -1,4 +1,3 @@
-# Seguridad y soberanía alimentaria
 ## Prestación Alimentar
 
 Consiste en una asignación dineraria orientada a la adquisición de alimentos que reviste carácter no remunerativo y se canaliza mediante una acreditación mensual de fondos a titulares, como un complemento al ingreso familiar para el acceso a los alimentos, y a través de los medios de pago que dispone la Administración Nacional de la Seguridad Social (ANSES). 

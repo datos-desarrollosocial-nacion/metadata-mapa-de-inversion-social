@@ -1,6 +1,4 @@
-# Estudios estratégicos 
-
-# Estudios sobre la Prestación Alimentar
+### Estudios sobre la Prestación Alimentar
 
 Los gráficos presentados constituyen un extracto de dos informes que se mencionan a   continuación, los cuales fueron realizados en la órbita de la Dirección General de Información Social Estratégica (DGISE). La DGISE se ocupa del monitoreo, análisis y evaluación de las intervenciones que implementa el Ministerio de Desarrollo Social para la generación de información relevante y de valor social para la toma de decisiones; y da apoyo a la gestión de los programas del Ministerio, en articulación con otros organismos del Estado, universidades y organismos internacionales, entre otras organizaciones. 
 

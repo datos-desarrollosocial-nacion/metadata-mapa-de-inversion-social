@@ -1,4 +1,3 @@
-# Integración Socio Urbana
 ## Políticas de integración Socio Urbana
 
 La Secretaría de Integración Socio Urbana (SISU) diseña, financia y ejecuta proyectos destinados a la integración socio urbana de los barrios populares de Argentina. La inversión se realiza  sobre cinco ejes: 

@@ -1,4 +1,4 @@
-# **Comedores escolares**
+### Comedores escolares
 
 
 Transferencia monetaria que refuerza los fondos provinciales destinados a comedores escolares, de escuelas a las que concurren niñas y niños que se encuentran en situación de riesgo socio educativo. El refuerzo económico se destina a solventar la compra de alimentos para mejorar los servicios alimentarios que brindan las instituciones. Se ejecuta mediante la firma de convenios con las provincias, los cuales se renuevan anualmente.

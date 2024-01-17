@@ -1,4 +1,3 @@
-# Cuidados de la primera infancia y la adolescencia
 ## Apoyo al Plan Nacional de Primera Infancia
 
 Este programa tiene por objetivo la realización de obras edilicias y de infraestructura en el marco del Plan Nacional de Primera Infancia (PNPI) para el fortalecimiento institucional de los Centros de Desarrollo Infantil (CDI) en funcionamiento; y para la ampliación de la cobertura de servicios públicos dirigidos a la promoción del desarrollo de las habilidades físicas, de lenguaje y comunicación, cognitivas y socioemocionales de niñas y niños de 0 a 4 años.

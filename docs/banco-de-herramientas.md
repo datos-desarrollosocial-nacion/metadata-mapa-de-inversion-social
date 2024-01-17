@@ -1,4 +1,3 @@
-# Inclusión sociolaboral y desarrollo social
 ## Programa Nacional Banco de Maquinarias, Herramientas y Materiales para la Emergencia Social. 
 
 El programa tiene por objeto la entrega de insumos, herramientas y/o equipamiento a personas en situación de alta vulnerabilidad social y económica, permitiéndoles generar una fuente de ingresos genuinos y mitigando, de tal modo, los factores de riesgo y exclusión provocados por el contexto de la emergencia social. Está integrado por dos componentes:

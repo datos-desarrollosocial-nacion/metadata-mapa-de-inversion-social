@@ -1,4 +1,3 @@
-# Inclusión sociolaboral y desarrollo social
 ## Registro de Trabajadoras y trabajadores de la economía popular (RENATEP) 
 
 El Registro Nacional de Trabajadores y Trabajadoras de la Economía Popular (ReNaTEP) forma parte de una política pública más amplia que lleva adelante la Secretaría de Economía Social (SES) perteneciente al Ministerio de Desarrollo Social de la Nación, y cuyo objetivo es la promoción y el fortalecimiento laboral y productivo de quienes han creado su propio trabajo y lo realizan en el marco de las ramas de actividad de la economía popular, por fuera de relaciones asalariadas formales.

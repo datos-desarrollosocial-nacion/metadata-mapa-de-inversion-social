@@ -1,4 +1,3 @@
-# Integración sociourbana
 ## Programa Mejor Barrio 
 
 Consiste en la construcción de playones multideportivos con el objetivo de llevar el deporte a los barrios, favorecer el reencuentro social y la recreación de la comunidad, en ciudades de todo el país. A su vez, el programa se orienta a generar empleo de mano de obra intensiva y motorizar el mercado interno. Cada playón está formado por una plataforma de hormigón armado y alisado, de 32 metros de largo y 19 metros de ancho, con un acabado funcional al uso del espacio, con cerco perimetral e iluminación. 
