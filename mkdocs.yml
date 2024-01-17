@@ -1,8 +1,42 @@
 site_name: Mapa de Inversión Social
 theme:
   name: material
-  palette:
-    primary: light blue
-    accent: light blue
-
   language: es
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      primary: light blue
+      accent: blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: light blue
+      accent: blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+nav:
+  - Inicio: index.md
+  - Inclusión laboral y economía popular:
+      - banco-de-herramientas.md
+      - renatep.md
+      - RENACER.md
+  - Integración socio urbana:
+      - políticas-integración-sociourbana.md
+      - integración-urbana-y-acceso-al-suelo.md
+      - mi-pieza.md
+      - mejor-barrio.md
+  - Niñez, Adolescencia y Familia:
+      - pae.md
+      - plan-nacional-de-primera-infancia.md
+      - apoyo-plan-nacional-de-primera-infancia.md
+      - potenciar-inclusion-joven.md
+      - rennya.md
+  - Seguridad y soberanía alimentaria:
+      - prestación-alimentar.md
+      - comerdores-escolares.md
+      - renacom.md
