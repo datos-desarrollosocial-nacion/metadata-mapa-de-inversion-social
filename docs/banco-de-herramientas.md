@@ -1,4 +1,4 @@
-## Programa Nacional Banco de Maquinarias, Herramientas y Materiales para la Emergencia Social. 
+# Programa Nacional Banco de Maquinarias, Herramientas y Materiales para la Emergencia Social. 
 
 El programa tiene por objeto la entrega de insumos, herramientas y/o equipamiento a personas en situación de alta vulnerabilidad social y económica, permitiéndoles generar una fuente de ingresos genuinos y mitigando, de tal modo, los factores de riesgo y exclusión provocados por el contexto de la emergencia social. Está integrado por dos componentes:
 
@@ -6,60 +6,66 @@ El programa tiene por objeto la entrega de insumos, herramientas y/o equipamient
 
 **2) Asistencia Técnica y Capacitación**: se ejecuta a través de universidades, instituciones educativas y organizaciones de la sociedad civil, con la finalidad de brindar asistencia técnica y/o capacitación necesaria en las instancias de formulación, ejecución y acompañamiento de los proyectos apoyados por los Bancos.
 
-**Normativa:** el programa se crea en 2020 mediante la Resolución RESOL-2020-131-APN-MDS.
+*Normativa:* el programa se crea en 2020 mediante la Resolución RESOL-2020-131-APN-MDS.
 
 
-### Indicador Cantidad de Bancos
+### Indicador: Cantidad de Bancos
 
-_Descripción del indicador_: el indicador refleja la cantidad de Bancos de Maquinarias, Herramientas y Materiales constituidos, según el tipo de organismo que lo ejecuta: organismo gubernamental municipal (OG municipal), organismo gubernamental provincial (OG provincial) u organización no gubernamental (ONG).
+-**Descripción del indicador**: el indicador refleja la cantidad de Bancos de Maquinarias, Herramientas y Materiales constituidos, según el tipo de organismo que lo ejecuta: organismo gubernamental municipal (OG municipal), organismo gubernamental provincial (OG provincial) u organización no gubernamental (ONG).
 
-_Unidad de medida_: Bancos de Maquinarias, Herramientas y Materiales.
+-**Unidad de medida**: Bancos de Maquinarias, Herramientas y Materiales.
 
-_Desagregación_: nacional, provincial y según tipo de organización ejecutora.
+-**Desagregación**: nacional, provincial y según tipo de organización ejecutora.
 
-_Frecuencia_: mensual (número absoluto y porcentaje).
+-**Frecuencia**: mensual (número absoluto y porcentaje).
 
-_Fuente_: Secretaría de Articulación de Política Social. 
-
-
-### Indicador Cantidad de proyectos
-
-_Descripción del indicador_: refleja el número de proyectos incluidos en los Planes de Actividades de los Bancos, según su clasificación en seis ejes definidos en el marco del programa. **(A) Limpieza, higiene, servicios ambientales y reciclado**: contempla toda tarea que suponga el mejoramiento del medio ambiente en su integralidad. Son ejemplo de acciones de este tipo la separación y el tratamiento de residuos, la recuperación de materiales para reciclar y la mejora de los espacios que sufren contaminación. **(B) Construcción, infraestructura y mejoramiento habitacional**: incluye el trabajo realizado en el sector construcción, implementado en la infraestructura social para mejorar las condiciones del hábitat, como tareas de mejoramiento de viviendas, veredas, juegos para recreación, entre otros. **(C) Producción y manufacturación**: supone el desarrollo de productos bajo una modalidad no industrial, donde el trabajo en serie no es lo principal, sino que se le da lugar a la originalidad y la creatividad de las y los productores. **(D) Agricultura y producción de alimentos**: contempla las tareas realizadas sobre huertas, generación de distintos tipos de abono, trabajo de la tierra y privilegio de la agricultura en pequeña escala y familiar. Prioriza la producción de alimentos considerando las potencialidades regionales, evitando la utilización de agrotóxicos e impulsando hábitos saludables. **(E) Comercialización comunitaria**: se trata de distintas estrategias para fomentar el comercio de productos elaborados en el marco de la Economía Social y Solidaria o Popular; y la difusión y venta de dichos productos. Algunas variantes de este eje son la organización de ferias populares en espacios públicos, la creación de redes para compras comunitarias y el uso de herramientas de la tecnología digital que fortalezcan este tipo de comercio. **(F) Otras actividades productivas**: la Autoridad de Aplicación del programa dispone la incorporación de otras actividades en atención a las necesidades sociales y laborales que sean contempladas durante el desarrollo del mismo.
-
-_Unidad de medida_: proyectos incluidos en los Planes de Actividades de los Bancos (número absoluto).
-
-_Desagregación_: nacional, provincial y según tipo de proyecto.
-
-_Frecuencia_: mensual.
-
-_Fuente_: Secretaría de Articulación de Política Social. 
-
-_Observaciones_: La desagregación geográfica se realiza en función de la localización de los Bancos que financian los proyectos. 
+-**Fuente**: Secretaría de Articulación de Política Social. 
 
 
-### Indicador Cantidad de personas incluidas en Bancos 
+### Indicador: Cantidad de proyectos
 
-_Descripción del indicador_: refleja la cantidad de personas participantes de los proyectos que integran los Planes de Actividades de los Bancos de Maquinarias, Herramientas y Materiales.
+-**Descripción del indicador**: refleja el número de proyectos incluidos en los Planes de Actividades de los Bancos, según su clasificación en seis ejes definidos en el marco del programa. 
+**(A) Limpieza, higiene, servicios ambientales y reciclado**: contempla toda tarea que suponga el mejoramiento del medio ambiente en su integralidad. Son ejemplo de acciones de este tipo la separación y el tratamiento de residuos, la recuperación de materiales para reciclar y la mejora de los espacios que sufren contaminación. 
+**(B) Construcción, infraestructura y mejoramiento habitacional**: incluye el trabajo realizado en el sector construcción, implementado en la infraestructura social para mejorar las condiciones del hábitat, como tareas de mejoramiento de viviendas, veredas, juegos para recreación, entre otros. 
+**(C) Producción y manufacturación**: supone el desarrollo de productos bajo una modalidad no industrial, donde el trabajo en serie no es lo principal, sino que se le da lugar a la originalidad y la creatividad de las y los productores. 
+**(D) Agricultura y producción de alimentos**: contempla las tareas realizadas sobre huertas, generación de distintos tipos de abono, trabajo de la tierra y privilegio de la agricultura en pequeña escala y familiar. Prioriza la producción de alimentos considerando las potencialidades regionales, evitando la utilización de agrotóxicos e impulsando hábitos saludables. 
+**(E) Comercialización comunitaria**: se trata de distintas estrategias para fomentar el comercio de productos elaborados en el marco de la Economía Social y Solidaria o Popular; y la difusión y venta de dichos productos. Algunas variantes de este eje son la organización de ferias populares en espacios públicos, la creación de redes para compras comunitarias y el uso de herramientas de la tecnología digital que fortalezcan este tipo de comercio. 
+**(F) Otras actividades productivas**: la Autoridad de Aplicación del programa dispone la incorporación de otras actividades en atención a las necesidades sociales y laborales que sean contempladas durante el desarrollo del mismo.
 
-_Unidad de medida_: personas que se encuentren en situación de alta vulnerabilidad social y económica (número absoluto y porcentaje).
+-**Unidad de medida**: proyectos incluidos en los Planes de Actividades de los Bancos (número absoluto).
 
-_Desagregación_: nacional, provincial y según tipo de proyecto.
+-**Desagregación**: nacional, provincial y según tipo de proyecto.
 
-_Frecuencia_: mensual.
+-**Frecuencia**: mensual.
 
-_Fuente_: Secretaría de Articulación de Política Social. 
+-**Fuente**: Secretaría de Articulación de Política Social. 
 
-_Observaciones_: La desagregación geográfica se realiza en función de la localización de los Bancos que financian los proyectos. 
+-**Observaciones**: La desagregación geográfica se realiza en función de la localización de los Bancos que financian los proyectos. 
 
 
-### Indicador Inversión
+### Indicador: Cantidad de personas incluidas en Bancos 
 
-_Descripción del indicador_: el indicador refleja el monto total pagado al Banco en concepto de subsidio no reintegrable.
+-**Descripción del indicador**: refleja la cantidad de personas participantes de los proyectos que integran los Planes de Actividades de los Bancos de Maquinarias, Herramientas y Materiales.
 
-_Unidad de medida_: millones de pesos.
+-**Unidad de medida**: personas que se encuentren en situación de alta vulnerabilidad social y económica (número absoluto y porcentaje).
 
-_Desagregación_: nacional y provincial.
+-**Desagregación**: nacional, provincial y según tipo de proyecto.
 
-_Frecuencia_: mensual.
+-**Frecuencia**: mensual.
 
-_Fuente_: Secretaría de Articulación de Política Social.
+-**Fuente**: Secretaría de Articulación de Política Social. 
+
+-**Observaciones**: La desagregación geográfica se realiza en función de la localización de los Bancos que financian los proyectos. 
+
+
+### Indicador: Inversión
+
+-**Descripción del indicador**: el indicador refleja el monto total pagado al Banco en concepto de subsidio no reintegrable.
+
+-**Unidad de medida**: millones de pesos.
+
+-**Desagregación**: nacional y provincial.
+
+-**Frecuencia**: mensual.
+
+-**Fuente**: Secretaría de Articulación de Política Social.
