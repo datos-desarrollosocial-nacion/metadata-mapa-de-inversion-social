@@ -1,4 +1,4 @@
-## Políticas de integración Socio Urbana
+# Políticas de integración socio urbana
 
 La Secretaría de Integración Socio Urbana (SISU) diseña, financia y ejecuta proyectos destinados a la integración socio urbana de los barrios populares de Argentina. La inversión se realiza  sobre cinco ejes: 
 
@@ -16,17 +16,17 @@ Uno de los principales mecanismos para la implementación del programa de integr
 
 ### Indicador: Inversión acumulada
 
-*Descripción del indicador*: el indicador refleja el monto actualizado que incorpora, al monto inicial comprometido, todas aquellas adendas o redeterminaciones de precios realizadas
+-**Descripción del indicador**: el indicador refleja el monto actualizado que incorpora, al monto inicial comprometido, todas aquellas adendas o redeterminaciones de precios realizadas
 
-*Unidad de medida*: millones de pesos.
+-**Unidad de medida**: millones de pesos.
 
-*Frecuencia*: mensual. 
+-**Frecuencia**: mensual. 
 
-*Desagregación*: nacional, provincial, según sector de inversión y tipo de unidad ejecutora. 
+-**Desagregación**: nacional, provincial, según sector de inversión y tipo de unidad ejecutora. 
 
-*Fuente*: Secretaría de Integración Socio Urbana.
+-**Fuente**: Secretaría de Integración Socio Urbana.
 
-*Observaciones*: 
+-**Observaciones**: 
 el sector de inversión agrupa todos los proyectos financiados por la Secretaría de Integración Socio Urbana según  eje de intervención, independientemente de su línea de financiamiento. 
 Las unidades ejecutoras pueden ser organismos gubernamentales nacionales, provinciales y municipales, cooperativas de servicios, entidades de la economía popular y organizaciones de la sociedad civil.
 La desagregación provincial no incluye la inversión en proyectos que alcanzan la totalidad del territorio nacional o con alcance simultáneo en varias provincias. 
