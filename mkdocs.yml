@@ -22,21 +22,21 @@ theme:
 nav:
   - Inicio: index.md
   - Inclusión laboral y economía popular:
-      - banco-de-herramientas.md
-      - renatep.md
-      - RENACER.md
+      - Banco de Maquinarias, Herramientas y Materiales: banco-de-herramientas.md
+      - Registro Nacional de Trabadores de la Economía Popular: renatep.md
+      - Registro Nacional de Empresas Recuperadas: RENACER.md
   - Integración socio urbana:
-      - políticas-integración-sociourbana.md
-      - integración-urbana-y-acceso-al-suelo.md
-      - mi-pieza.md
-      - mejor-barrio.md
+      - Políticas de integración socio urbana: políticas-integración-sociourbana.md
+      - Integración urbana y acceso al suelo: integración-urbana-y-acceso-al-suelo.md
+      - Mi Pieza: mi-pieza.md
+      - Mejor Barrio: mejor-barrio.md
   - Niñez, Adolescencia y Familia:
-      - pae.md
-      - plan-nacional-de-primera-infancia.md
-      - apoyo-plan-nacional-de-primera-infancia.md
-      - potenciar-inclusion-joven.md
-      - rennya.md
+      - Acompañamiento para el egreso de jóvenes sin cuidados parentales: pae.md
+      - Plan Nacional de Primera Infancia (PNPI): plan-nacional-de-primera-infancia.md
+      - Apoyo al Plan Nacional de Primera Infancia: apoyo-plan-nacional-de-primera-infancia.md
+      - Potenciar Inclusión Joven: potenciar-inclusion-joven.md
+      - Reparación económica para niñas, niños y adolescentes: rennya.md
   - Seguridad y soberanía alimentaria:
-      - prestación-alimentar.md
-      - comerdores-escolares.md
-      - renacom.md
+      - Prestación alimentar: prestación-alimentar.md
+      - Comedores Escolares: comerdores-escolares.md
+      - Registro Nacional de Comedores y Merenderos Comunitarios: renacom.md
