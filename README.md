@@ -32,7 +32,7 @@ El **Mapa de Inversión Social** se nutre de información del monitoreo permanen
 Para comenzar a navegar el **Mapa de Inversión Social** tenés que elegir un programa o prestación. Dentro de cada tablero podrás visualizar mapas y distintos tipos de gráficos. 
 
 
-![alt_text](images/fechas_navegación.png "image_tooltip")
+![alt_text](docs/images/fechas_navegación.png "image_tooltip")
 
 
 La **FECHA DE ACTUALIZACIÓN (A)** indica el día en que la información de cada uno de los programas y prestaciones ha sido actualizada.
