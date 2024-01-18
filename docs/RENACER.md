@@ -1,4 +1,4 @@
-### RENACER - Registro Nacional de Empresas Recuperadas
+## RENACER - Registro Nacional de Empresas Recuperadas
 Resolución 123/2022
 El Registro Nacional de Empresas Recuperadas, en adelante RENACER, es una herramienta que tiene por objetivo principal registrar a las empresas recuperadas a fin de contar con información sobre su capacidad productiva, formas de comercialización y promoción, y su composición para la planificación e implementación de políticas públicas para el sector.
 
@@ -9,28 +9,28 @@ Se entiende por empresa recuperada a toda unidad productiva que se encuentre en 
 
 
 
-##### Indicador: Cantidad de personas asociadas a empresas recuperadas registradas
-*Descripción del indicador*: refleja la cantidad de personas asociadas a empresas recuperadas registradas por provincia.
+### Indicador: Cantidad de personas asociadas a empresas recuperadas registradas
+-**Descripción del indicador**: refleja la cantidad de personas asociadas a empresas recuperadas registradas por provincia.
 
-*Unidad de medida*: personas.
+-**Unidad de medida**: personas.
 
-*Frecuencia*: mensual.
+-**Frecuencia**: mensual.
 
-*Desagregación*: nacional y provincial; según género y según grupo de edad.
+-**Desagregación**: nacional y provincial; según género y según grupo de edad.
 
-*Fuente*: Secretaría de Economía Social.
-
-
+-**Fuente**: Secretaría de Economía Social.
 
 
-##### Indicador: Cantidad de empresas recuperadas registradas
-*Descripción del indicador*: refleja la cantidad de empresas recuperadas registradas en RENACER.
 
-*Unidad de medida*: empresas. 
 
-*Frecuencia :* mensual.
+### Indicador: Cantidad de empresas recuperadas registradas
+-**Descripción del indicador**: refleja la cantidad de empresas recuperadas registradas en RENACER.
 
-*Desagregación :* nacional y provincial, con detalle de localidad/municipio/departamento, según año de recuperación y según rubro agrupado ( rubro AFIP, agrupado en menor cantidad de categorías).
+-**Unidad de medida**: empresas. 
 
-*Fuente*: Secretaría de Economía Social.
+-**Frecuencia**: mensual.
+
+-**Desagregación**: nacional y provincial, con detalle de localidad/municipio/departamento, según año de recuperación y según rubro agrupado ( rubro AFIP, agrupado en menor cantidad de categorías).
+
+-**Fuente**: Secretaría de Economía Social.
 
