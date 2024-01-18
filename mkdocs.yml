@@ -23,15 +23,15 @@ nav:
   - Inicio: index.md
   - Inclusión laboral y economía popular:
       - Banco de Maquinarias, Herramientas y Materiales: banco-de-herramientas.md
-      - Registro Nacional de Trabadores de la Economía Popular: renatep.md
-      - Registro Nacional de Empresas Recuperadas: RENACER.md
+      - RENATEP: renatep.md
+      - RENACER: RENACER.md
   - Integración socio urbana:
       - Políticas de integración socio urbana: políticas-integración-sociourbana.md
       - Integración urbana y acceso al suelo: integración-urbana-y-acceso-al-suelo.md
       - Mi Pieza: mi-pieza.md
       - Mejor Barrio: mejor-barrio.md
   - Niñez, Adolescencia y Familia:
-      - Acompañamiento para el egreso de jóvenes sin cuidados parentales: pae.md
+      - PAE: pae.md
       - Plan Nacional de Primera Infancia (PNPI): plan-nacional-de-primera-infancia.md
       - Apoyo al Plan Nacional de Primera Infancia: apoyo-plan-nacional-de-primera-infancia.md
       - Potenciar Inclusión Joven: potenciar-inclusion-joven.md
