@@ -18,16 +18,16 @@ Transferencia monetaria que refuerza los fondos provinciales destinados a comedo
 -**Observaciones**: el dato corresponde al último convenio vigente.
 
 
-**Indicador Inversión**
+### Indicador: Inversión
 
-*Descripción del indicador:* el indicador refleja el monto total transferido a las provincias, destinado a solventar la compra de alimentos para mejorar los servicios alimentarios de las escuelas incluidas en los convenios celebrados entre el Ministerio de Desarrollo Social y las provincias asistidas.
+-**Descripción del indicador**: el indicador refleja el monto total transferido a las provincias, destinado a solventar la compra de alimentos para mejorar los servicios alimentarios de las escuelas incluidas en los convenios celebrados entre el Ministerio de Desarrollo Social y las provincias asistidas.
 
-*Unidad de medida:* millones de pesos.
+-**Unidad de medida**: millones de pesos.
 
-*Desagregación:* nacional, provincial y acumulada.
+-**Desagregación**: nacional, provincial y acumulada.
 
-*Frecuencia:* mensual.
+-**Frecuencia**: mensual.
 
-*Fuente:* Secretaría de Inclusión Social.
+-**Fuente**: Secretaría de Inclusión Social.
 
 
