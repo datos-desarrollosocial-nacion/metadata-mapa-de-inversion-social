@@ -1,4 +1,4 @@
-## RENACER - Registro Nacional de Empresas Recuperadas
+# RENACER - Registro Nacional de Empresas Recuperadas
 Resolución 123/2022
 El Registro Nacional de Empresas Recuperadas, en adelante RENACER, es una herramienta que tiene por objetivo principal registrar a las empresas recuperadas a fin de contar con información sobre su capacidad productiva, formas de comercialización y promoción, y su composición para la planificación e implementación de políticas públicas para el sector.
 
