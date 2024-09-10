@@ -16,7 +16,7 @@ Normativa: Ley 26.233. Centros de Desarrollo Infantil. Promoción y regulación.
 
 -**Frecuencia**: mensual.
 
--**Fuente**: Secretaría Nacional de Niñez, Adolescencia y Familia (SENAF).
+-**Fuente**: Subsecretaría de Políticas Familiares, Secretaría Nacional de Niñez, Adolescencia y Familia, Ministerio de Capital Humano.
 
 -**Observaciones**: el dato surge del convenio celebrado entre el Ministerio de Desarrollo Social y el organismo u organización no gubernamental a cargo del CDI. Corresponde al último mes informado por el programa.
 
@@ -31,6 +31,6 @@ Normativa: Ley 26.233. Centros de Desarrollo Infantil. Promoción y regulación.
 
 -**Frecuencia**: mensual.
 
--**Fuente**: Secretaría Nacional de Niñez, Adolescencia y Familia (SENAF).
+-**Fuente**: Subsecretaría de Políticas Familiares, Secretaría Nacional de Niñez, Adolescencia y Familia, Ministerio de Capital Humano.
 
 -**Observaciones**: el dato corresponde al último mes informado por el programa.
