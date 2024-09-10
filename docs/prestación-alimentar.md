@@ -14,7 +14,8 @@ Normativa: Resolución RESOL 2021-1549-APN-MDS.
 
 -**Frecuencia**: mensual.
 
--**Fuente**: Coordinación de Procesamiento y Liquidación de Aportes para la Inclusión Social, dependiente de la Dirección de Servicios Digitales, Informática y Telecomunicaciones, Secretaría de Gestión Administrativa. 
+-**Fuente**: Coordinación de Procesamiento y Liquidación de Aportes para la Inclusión Social, Dirección de Servicios Digitales, Informática y Telecomunicaciones, Subsecretaría de Gestión Administrativa de Niñez, Adolescencia y Familia, Secretaría Nacional de Niñez, Adolescencia y Familia, Ministerio de Capital Humano.
+
 
 ### Indicador: Cantidad de titulares
 
@@ -37,7 +38,7 @@ Mujeres embarazadas (a partir del tercer mes) con al menos dos hijos/as que cump
 
 -**Frecuencia**: mensual.
 
--**Fuente**: Coordinación de Procesamiento y Liquidación de Aportes para la Inclusión Social, Dirección de Servicios Digitales, Informática y Telecomunicaciones, Secretaría de Gestión Administrativa. La información de sexo de los titulares según DNI se obtiene de registros administrativos del Registro Nacional de las Personas (RENAPER). A partir del Decreto 476/2021, dichas categorías para esta variable son: “M” para masculino y “F” para femenino y “X” para no binario/ indeterminado/no informado.
+-**Fuente**: Coordinación de Procesamiento y Liquidación de Aportes para la Inclusión Social, Dirección de Servicios Digitales, Informática y Telecomunicaciones, Subsecretaría de Gestión Administrativa de Niñez, Adolescencia y Familia, Secretaría Nacional de Niñez, Adolescencia y Familia, Ministerio de Capital Humano. La información de sexo de los titulares según DNI se obtiene de registros administrativos del Registro Nacional de las Personas (RENAPER). A partir del Decreto 476/2021, dichas categorías para esta variable son: “M” para masculino y “F” para femenino y “X” para no binario/ indeterminado/no informado.
 
 -**Observaciones**: el dato informado corresponde al último mes informado por el programa. Los montos de las distintas categorías de la prestación se actualizan a partir de la normativa vigente.
 
@@ -52,6 +53,6 @@ Mujeres embarazadas (a partir del tercer mes) con al menos dos hijos/as que cump
 
 -**Frecuencia**: mensual.
 
--**Fuente**: Coordinación de Procesamiento y Liquidación de Aportes para la Inclusión Social, Dirección de Servicios Digitales, Informática y Telecomunicaciones, Secretaría de Gestión Administrativa. 
+-**Fuente**: Coordinación de Procesamiento y Liquidación de Aportes para la Inclusión Social, Dirección de Servicios Digitales, Informática y Telecomunicaciones, Subsecretaría de Gestión Administrativa de Niñez, Adolescencia y Familia, Secretaría Nacional de Niñez, Adolescencia y Familia, Ministerio de Capital Humano.
 
 -**Observaciones**: durante el período comprendido entre diciembre de 2019  y octubre de 2021, la transferencia a titulares se implementó mediante dos mecanismos: transferencia a la cuenta bancaria de cobro de la Asignación Universal por Hijo o acreditación en una tarjeta de débito exclusiva para el cobro de la Prestación Alimentar, denominada “Tarjeta Alimentar”. La inversión incluye el pago de refuerzos extraordinarios en mayo y diciembre de 2020.
