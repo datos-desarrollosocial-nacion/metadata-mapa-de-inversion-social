@@ -14,7 +14,8 @@ Normativa: Ley 27.364 - Programa de Acompañamiento para el egreso de jóvenes s
 
 -**Frecuencia**: mensual.
 
--**Fuente**: Secretaría Nacional de Niñez, Adolescencia y Familia (SENAF).
+-**Fuente**: Subsecretaría de Polìticas Familiares, Secretaría Nacional de Niñez, Adolescencia y Familia, Ministerio de Capital Humano.
+
 
 ### Indicador: Inversión
 
@@ -26,4 +27,4 @@ Normativa: Ley 27.364 - Programa de Acompañamiento para el egreso de jóvenes s
 
 -**Frecuencia**: mensual.
 
--**Fuente**: Secretaría Nacional de Niñez, Adolescencia y Familia (SENAF).
+-**Fuente**: Subsecretaría de Polìticas Familiares, Secretaría Nacional de Niñez, Adolescencia y Familia, Ministerio de Capital Humano.
