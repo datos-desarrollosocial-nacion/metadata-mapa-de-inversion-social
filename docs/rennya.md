@@ -14,7 +14,7 @@ Normativa: Ley 27.452 “Ley Brisa” - Régimen de Reparación Económica para 
 
 -**Frecuencia**: mensual.
 
--**Fuente**: Secretaría Nacional de Niñez, Adolescencia y Familia (SENAF).
+-**Fuente**: Subsecretaría de Políticas Familiares, Secretaría Nacional de Niñez, Adolescencia y Familia, Ministerio de Capital Humano.
 
 ### Indicador: Inversión
 
@@ -26,6 +26,6 @@ Normativa: Ley 27.452 “Ley Brisa” - Régimen de Reparación Económica para 
 
 -**Frecuencia**: mensual.
 
--**Fuente**: Secretaría Nacional de Niñez, Adolescencia y Familia (SENAF).
+-**Fuente**: Subsecretaría de Políticas Familiares, Secretaría Nacional de Niñez, Adolescencia y Familia, Ministerio de Capital Humano.
 
 -**Observaciones**: Incluye pagos retroactivos asignados al mes en que se efectuó el pago.
