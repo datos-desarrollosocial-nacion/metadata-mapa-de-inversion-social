@@ -4,31 +4,50 @@ Asimismo, desde el Estado Nacional se subsidia a los Monotributistas Sociales, e
 **Normativa: **Ley N° 24.977, Ley N° 25.865, Decreto N° 806/2004, Resoluciones Nros. 2757/2011 y 1215/2014, ambas del entonces MINISTERIO DE DESARROLLO SOCIAL. La RESOL-2024-630-APN-MCH, (BO 10-9-24) derogó las anteriores. 
 #### Subsidio del 50 % del componente Obra Social
 ### Indicador: Cantidad de personas destinatarias
+
 **-Descripción del indicador:** Sumatoria de la cantidad de personas titulares de Monotributo Social y sus adherentes.
+
 **-Unidad de medida:** personas (número absoluto).
--Desagregación:  nacional y según tipo de persona destinataria (titulares y adherentes).
-**-Frecuencia: **mensual.
-** -Fuente:** Coordinación de Procesamiento y Liquidación de Aportes para la Inclusión Social, Dirección de Servicios Digitales, Informática y Telecomunicaciones, Subsecretaría de Gestión Administrativa de Niñez, Adolescencia y Familia, Secretaría Nacional de Niñez, Adolescencia y Familia, Ministerio de Capital Humano.
+
+**-Desagregación:**  nacional y según tipo de persona destinataria (titulares y adherentes).
+
+**-Frecuencia:** mensual.
+
+**-Fuente:** Coordinación de Procesamiento y Liquidación de Aportes para la Inclusión Social, Dirección de Servicios Digitales, Informática y Telecomunicaciones, Subsecretaría de Gestión Administrativa de Niñez, Adolescencia y Familia, Secretaría Nacional de Niñez, Adolescencia y Familia, Ministerio de Capital Humano.
 
 ### Indicador: Inversión
 **-Descripción del indicador:** el indicador refleja el monto total erogado, destinado al pago del subsidio equivalente al 50 % del componente de Obra Social, por cada monotributista social y adherente.
+
 **-Unidad de medida:** millones de pesos.
+
 **-Desagregación:** nacional, acumulada y mensual.
+
 **-Frecuencia:** mensual.
-** -Fuente: **Coordinación de Procesamiento y Liquidación de Aportes para la Inclusión Social, Dirección de Servicios Digitales, Informática y Telecomunicaciones, Subsecretaría de Gestión Administrativa de Niñez, Adolescencia y Familia, Secretaría Nacional de Niñez, Adolescencia y Familia, Ministerio de Capital Humano.
+
+**-Fuente:** Coordinación de Procesamiento y Liquidación de Aportes para la Inclusión Social, Dirección de Servicios Digitales, Informática y Telecomunicaciones, Subsecretaría de Gestión Administrativa de Niñez, Adolescencia y Familia, Secretaría Nacional de Niñez, Adolescencia y Familia, Ministerio de Capital Humano.
 
  
 #### Subsidio del 100 % del componente Obra Social
+
 ### Indicador: Cantidad de personas destinatarias
+
 **-Descripción del indicador:** Sumatoria de la cantidad de personas titulares de Monotributo Social que además son titulares de alguno de los siguientes Programas Sociales de nivel nacional: PAS, CONAMI o VAT; más sus adherentes. Las mismas, reciben el subsidio del 50 % restante del componente Obra Social.
-**-Unidad de medida: **personas (número absoluto).
-**-Desagregación:  **nacional, provincial y según tipo de persona destinataria (titular/ adherente). En el caso de los adherentes, la información se presenta sólo a nivel nacional.
+
+**-Unidad de medida:** personas (número absoluto).
+
+**-Desagregación:** nacional, provincial y según tipo de persona destinataria (titular/ adherente). En el caso de los adherentes, la información se presenta sólo a nivel nacional.
+
 **-Frecuencia:** mensual.
-** -Fuente: **Coordinación de Procesamiento y Liquidación de Aportes para la Inclusión Social, Dirección de Servicios Digitales, Informática y Telecomunicaciones, Subsecretaría de Gestión Administrativa de Niñez, Adolescencia y Familia, Secretaría Nacional de Niñez, Adolescencia y Familia, Ministerio de Capital Humano.
+
+**-Fuente:** Coordinación de Procesamiento y Liquidación de Aportes para la Inclusión Social, Dirección de Servicios Digitales, Informática y Telecomunicaciones, Subsecretaría de Gestión Administrativa de Niñez, Adolescencia y Familia, Secretaría Nacional de Niñez, Adolescencia y Familia, Ministerio de Capital Humano.
 
 ### Indicador: Inversión
 **-Descripción del indicador:** el indicador refleja el monto total erogado y destinado al pago del subsidio equivalente al 50 % restante del componente de Obra Social por cada monotributista social y sus adherentes.
+
 **-Unidad de medida:** millones de pesos.
-**-Desagregación: **nacional, provincial, acumulada y mensual.
-**-Frecuencia: **mensual.
-**-Fuente: **Coordinación de Procesamiento y Liquidación de Aportes para la Inclusión Social, Dirección de Servicios Digitales, Informática y Telecomunicaciones, Subsecretaría de Gestión Administrativa de Niñez, Adolescencia y Familia.
+
+**-Desagregación:** nacional, provincial, acumulada y mensual.
+
+**-Frecuencia:** mensual.
+
+**-Fuente:** Coordinación de Procesamiento y Liquidación de Aportes para la Inclusión Social, Dirección de Servicios Digitales, Informática y Telecomunicaciones, Subsecretaría de Gestión Administrativa de Niñez, Adolescencia y Familia.
